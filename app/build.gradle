@@ -23,6 +23,11 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "API_BASE_URL", "\"https://tasks-planner-api.herokuapp.com/\""
+        }
+        debug {
+            initWith debug
+            buildConfigField "String", "API_BASE_URL", "\"https://tasks-planner-api.herokuapp.com/\""
         }
     }
     compileOptions {
