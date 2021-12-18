@@ -1,4 +1,4 @@
-package com.davidorellana.logincomposeretrofit2
+package com.davidorellana.logincomposeretrofit2.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,7 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import com.davidorellana.logincomposeretrofit2.ui.navigation.NavigationScreen
+import com.davidorellana.logincomposeretrofit2.navigation.NavigationScreen
 import com.davidorellana.logincomposeretrofit2.ui.theme.LoginComposeRetrofit2Theme
 import com.davidorellana.logincomposeretrofit2.viewmodel.LoginViewModel
 
