@@ -2,11 +2,9 @@
 
 ![portada](https://raw.github.com/davidorellana98/login-auth-compose-retrofit/main/app/src/main/res/drawable/portada.png)
 
-## Screenshot 📱
+## Demo 📱
 
 ![demo_login](https://raw.github.com/davidorellana98/login-auth-compose-retrofit/main/app/src/main/res/drawable/login.gif)
-
-## Demo 📱
 
 ![demo_loginconsole](https://raw.github.com/davidorellana98/login-auth-compose-retrofit/main/app/src/main/res/drawable/loginconsole.gif)
 
